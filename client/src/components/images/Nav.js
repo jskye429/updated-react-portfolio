@@ -7,17 +7,17 @@ function Nav() {
   <div className="row">
       <div className="col-lg">
         
-    <nav className="navbar navbar-dark md-dark">
+    <nav className="navbar navbar-dark lg-dark">
 
 <ul>
       <li className="nav-item active">
         <a className="nav-link" href="/Homepage">Home</a>
       </li>
       <li className="nav-item active">
-        <a className="nav-link" href="/Homepage">Portfolio</a>
+        <a className="nav-link" href="/Portfolio">Portfolio</a>
       </li>
       <li className="nav-item active">
-        <a className="nav-link" href="/Homepage">Contact</a>
+        <a className="nav-link" href="/Contact Me">Contact</a>
       </li>
    
    
